@@ -1,0 +1,24 @@
+A Study of Software Development Project Risk Management
+
+Abstract:
+In this paper the author has analyzed 5 main reasons for complete and clear 
+understanding of risks.Some of the reasons are use of unproven technologies,
+system requirements, system architecture,etc. 4 steps and 3 countermeasures
+are provided to cope up with various risks in software development projects.
+
+Software Risk Management Process Improvement Experience in Enterprise Projects
+
+Abstract:
+In this paper the author has implemented risk management process improvements 
+in projects carried out by TÜBITAK-BİLGEM a cyber security institute. The 
+achievements at the end of the project include the integration of risk management
+process with SDLC tools, which was improved as part of this implementation and was
+incorporated into cyber security projects within the institute.
+
+Software Risk Analysis in Medical Device Development
+
+Abstract:
+In this paper the author has explained how software risk management is vital
+in healthcare systems. This paper presents some of the experiences gained from
+a case study at a large hospital in sweden. The study includes identification
+and analysis of risk using scenarios and the effectiveness of the approach.
