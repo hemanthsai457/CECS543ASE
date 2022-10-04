@@ -1,4 +1,5 @@
-A Study of Software Development Project Risk Management
+1 A Study of Software Development Project Risk Management - Ye Tao
+https://ieeexplore.ieee.org/document/4746498
 
 Abstract:
 In this paper the author has analyzed 5 main reasons for complete and clear 
@@ -6,7 +7,8 @@ understanding of risks.Some of the reasons are use of unproven technologies,
 system requirements, system architecture,etc. 4 steps and 3 countermeasures
 are provided to cope up with various risks in software development projects.
 
-Software Risk Management Process Improvement Experience in Enterprise Projects
+2 Software Risk Management Process Improvement Experience in Enterprise Projects - Süleyman Muhammed Arıkan, Özgür Yürekten
+https://ieeexplore.ieee.org/document/9247026
 
 Abstract:
 In this paper the author has implemented risk management process improvements 
@@ -15,10 +17,32 @@ achievements at the end of the project include the integration of risk managemen
 process with SDLC tools, which was improved as part of this implementation and was
 incorporated into cyber security projects within the institute.
 
-Software Risk Analysis in Medical Device Development
+3 Software Risk Analysis in Medical Device Development - Christin Lindholm, Jesper Pedersen Notander, Martin Host
+https://ieeexplore.ieee.org/document/6068331
 
 Abstract:
 In this paper the author has explained how software risk management is vital
 in healthcare systems. This paper presents some of the experiences gained from
 a case study at a large hospital in sweden. The study includes identification
 and analysis of risk using scenarios and the effectiveness of the approach.
+
+4 Software Risk Identification and Mitigation in Incremental Model - Basit Shahzad, Ihsan Ullah, Naveed Khan
+https://ieeexplore.ieee.org/document/5381181
+
+Abstract:
+This paper focuses on indentification and mitigation of risk in incremental model of software 
+development.
+
+5 A New Scheduling Strategy for Risk Mitigation - Pheng Zhou, Hareton K.N. Leung
+https://ieeexplore.ieee.org/document/6805447
+
+Abstract:
+In this paper the author proposes a new mitigation strategy "Greedy Strategy" and 
+compare the performance of greedy strategy with existing scheduling strategies and
+compare the performance of all identified scheduling strategies with "Random
+Strategy".
+
+
+
+
+Risk Assessment in Open Source Systems
