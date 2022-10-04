@@ -1,0 +1,9 @@
+The “Earth-Moon” model on software project risk management
+
+Software risk management (BY Sergey M. Avdoshin; Elena Y. Pesotskaya)
+
+Poster: Software Development Risk Management: Using Machine Learning for Generating Risk Prompts
+
+Agile Software Risk Management Architecture for IoT-Fog based systems
+
+Risk Assessment on Software Development using Fishbone Analysis
