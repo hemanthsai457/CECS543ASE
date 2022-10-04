@@ -1,9 +1,17 @@
 The “Earth-Moon” model on software project risk management
+-this paper generalizes two types of lifecycles in software project risk management, analyzes the relations between them, and then put forward the “Earth-Moon” conceptual model on software project risk management. 
 
 Software risk management (BY Sergey M. Avdoshin; Elena Y. Pesotskaya)
+-This study addresses software risk management in the software development area. An approach to analysis, structuring, and usage is proposed for the information technology (IT) projects in the risk management context
 
-Poster: Software Development Risk Management: Using Machine Learning for Generating Risk Prompts
-
-Agile Software Risk Management Architecture for IoT-Fog based systems
+Agile Software Risk Management Architecture for IoT-Fog-based systems
+ -In this paper have proposed a system that involves architecture and a risk assessment framework that assists in achieving this goal. Furthermore, machine learning techniques have been included in this proposed system which turns out to be more conducive for an incessant system. 
 
 Risk Assessment on Software Development using Fishbone Analysis
+- the objective of this paper is to identify, classify and assess the risks that may cause a negative impact to a software project. In this paper, they first analyze the root cause which may lead to terrible risk. Then we classified and prioritized the risks according to their nature. with the help of Fishbone Analysis is used.
+
+
+
+
+Poster: Software Development Risk Management: Using Machine Learning for Generating Risk Prompts
+-a machine learning algorithm is developed to generate risk prompts, based on software project characteristics and other factors. also explores the utility of post-classification tagging of risks
